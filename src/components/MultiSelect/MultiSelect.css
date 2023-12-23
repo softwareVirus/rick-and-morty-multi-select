@@ -1,0 +1,31 @@
+.multi-select-container {
+  width: 95%;
+  max-width: 400px;
+  display: flex;
+  border: 0.125rem solid var(--primary-color);
+  border-radius: 1rem;
+  padding: 0.25rem;
+  box-sizing: border-box;
+}
+
+.multi-select-box {
+  width: 93%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.multi-select-input {
+  outline: none;
+  border: none;
+  margin-left: 0.35rem;
+  font: inherit;
+  font-size: 1rem;
+  flex: 1;
+}
+
+.multi-select-arrow {
+    width: 7%;
+    display: flex;
+    align-items: center;
+}

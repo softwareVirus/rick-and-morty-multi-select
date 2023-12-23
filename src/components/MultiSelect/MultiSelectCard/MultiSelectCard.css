@@ -1,0 +1,26 @@
+.selected-item {
+  background-color: var(--secondry-color);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.65rem;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.display-name {
+  font-size: 0.85rem;
+}
+
+.delete-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.25rem;
+  padding: 0.1rem;
+  background-color: var(--primary-color);
+  color: white;
+  font-size: 0.85rem;
+  width: 1rem;
+  height: 1rem;
+  cursor: pointer;
+}

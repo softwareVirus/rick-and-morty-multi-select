@@ -1,0 +1,13 @@
+/* ErrorNotification.css */
+.error-notification {
+    background-color: #ffcccc; /* Change to your desired color */
+    padding: 10px;
+    border: 1px solid #ff0000;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    color: #ff0000;
+  }
+  

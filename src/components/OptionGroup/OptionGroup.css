@@ -1,0 +1,16 @@
+.option-group-container {
+  width: 95%;
+  max-width: 400px;
+  display: flex;
+  border: 0.125rem solid var(--primary-color);
+  border-radius: 1rem;
+  margin: 0 auto;
+  flex-direction: column;
+  height: 60vh;
+  overflow: auto;
+}
+
+/* Apply styles to all elements except the first child */
+.option-group-container > :not(:first-child) {
+  border-top: 0.125rem solid var(--primary-color);
+}
