@@ -252,7 +252,7 @@ To start the development server with HMR, use the following command:
 npm run dev
 ```
 
-This will launch the application, and you can access it at `http://localhost:3000` in your web browser.
+This will launch the application, and you can access it at `http://localhost:5173` in your web browser.
 
 ### Production Build
 
