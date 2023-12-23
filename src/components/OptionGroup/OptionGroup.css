@@ -6,6 +6,7 @@
   border-radius: 1rem;
   margin: 0 auto;
   flex-direction: column;
+  box-sizing: border-box;
   height: 60vh;
   overflow: auto;
 }
