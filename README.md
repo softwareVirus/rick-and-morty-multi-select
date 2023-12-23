@@ -1,6 +1,7 @@
 # Rick and Morty Character Selector
 
 The Rick and Morty Character Selector is a React application designed to allow users to search and select characters from the renowned TV show "Rick and Morty." This application features a sophisticated multi-select component with an aesthetically pleasing interface, offering various functionalities such as keyboard navigation, loading state representation, and effective exception handling.
+![image](https://github.com/softwareVirus/rick-and-morty-multi-select/assets/63147096/c55a9f1f-89af-4f10-97e3-ff54175f620b)
 
 ## Table of Contents
 
